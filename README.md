@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<iframe src="https://giphy.com/embed/5r5J4JD9miis" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-day-office-5r5J4JD9miis">via GIPHY</a></p>
+
+Welcome to the repository of a Data Science student! 📚🔬 Here you will find a collection of projects that reflect my passion for data analysis and interpretation. From data cleaning and visualization to implementing machine learning models, each project showcases my ability to extract valuable insights and make informed decisions. 📊💡 Explore this repository and discover how I have applied my knowledge to solve real-world problems and contribute to the field of Data Science. 🌍🔍
 <!--
 **JulietaStorino/JulietaStorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
