@@ -7,4 +7,4 @@ Welcome to the repository of a Data Science student! 📚🔬 Here you will find
 ## Find me around the web 🌍:
 - 🌱Currently learning on [Platzi](https://platzi.com/p/julieta_storino/ "Platzi").
 - 💼Sharing updates on [LinkedIn](https://www.linkedin.com/in/julieta-storino-7596b7274/ "LinkedIn").
-- 🕊️Thinking on [Twitter](https://twitter.com/julieta_storino/ "Twitter").
+- 🕊️Thinking on [X](https://twitter.com/julieta_storino/ "Twitter").
